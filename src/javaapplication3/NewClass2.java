@@ -11,4 +11,5 @@ package javaapplication3;
  */
 public class NewClass2 {
     //branch A
+    //branch A 2
 }
