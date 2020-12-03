@@ -20,6 +20,7 @@ public class JavaApplication3 {
         System.out.println("Branch1!");
         System.out.println("Branch1.1!");
         System.out.println("Branch2");
+        System.out.println("Branch3");
     }
     
 }
