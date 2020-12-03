@@ -9,5 +9,5 @@
  * @author jcunha
  */
 public class NewClass {
-    //line from gh
+    //
 }
